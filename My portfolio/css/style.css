@@ -61,6 +61,9 @@ section {
     color: #fff;
     font-family: 'Roboto Mono', monospace;
 }
+h2 span {
+    color: #0ff;
+}
 .home-text p {
     margin-bottom: 100px;
     font-size: 25px;
