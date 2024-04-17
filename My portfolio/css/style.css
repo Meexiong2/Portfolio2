@@ -267,6 +267,8 @@ footer h3 a {
     flex-wrap: wrap;
    }
    .home-text h2 {
+    justify-content: center;
+    align-items: center;
     text-align: center;
     font-size: 45px;
    }
