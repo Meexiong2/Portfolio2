@@ -270,8 +270,12 @@ footer h3 a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 30px;
-   }
+   } 
+   .home-text p {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   } 
    .home-text h1 {
     font-size: 45px;
    }
